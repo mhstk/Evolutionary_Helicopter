@@ -13,5 +13,6 @@ Helicopter             |  Gravity          |  Thrust
 ## Contributors
 - [Hossein Zaredar](https://github.com/HosseinZaredar)
 - [Matin Tavakoli](https://github.com/MatinTavakoli/) <br>
+- [Mohammad Hosein Setak])(https://github.com/mhstk)
 - Many thanks to [Parnian Rad](https://github.com/Parnian-Rad)
 
