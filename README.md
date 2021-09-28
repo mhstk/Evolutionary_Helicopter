@@ -3,6 +3,7 @@
 A project designed for Computational Intelligence course. <br> <br>
 In this project, a simple 2D minigame is implemented. <br>
 The agent needs to learn to maneuver via neural network + evolution.
+This code is implemented without using of Keras, Tenserflow and only Numpy for undrestanding the mathematical concept of Neural Networks.
 
 
 ## Game Modes
